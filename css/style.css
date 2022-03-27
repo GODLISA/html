@@ -2,5 +2,11 @@
     text-align: center;
 }
 .fondo{
-    background-color: rgb(243, 211, 171);
+    background-image: url(../imagen/descarga.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.margen{
+    margin-top: 100px;
 }
