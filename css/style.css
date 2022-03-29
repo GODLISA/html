@@ -288,3 +288,9 @@ section {
         width: 100%;
     }
 }
+div.kuro {
+    width: 50%;
+    margin: 20px auto;
+    background-color: #449;
+    color:#fff
+}
