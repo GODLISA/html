@@ -294,3 +294,17 @@ div.kuro {
     background-color: #449;
     color:#fff
 }
+.margenform{
+	margin-top: 4%;
+}
+.bbb{
+	height: 20px;
+	width: 20px;
+	vertical-align: middle;
+}
+.form{
+	padding: 0px 20px 20px 20px;
+	border: 2px solid black;
+	border-radius: 10px;
+	border-style: ridge
+}
